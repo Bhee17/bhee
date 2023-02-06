@@ -1,0 +1,156 @@
+body {
+    background-color: rgba(107, 103, 103, 0.25);
+}
+
+.one,a{  
+    text-align: center;
+    color: brown;
+    text-decoration: none;
+
+    font-size: larger;
+    background-color: aqua;
+
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    color: blue;
+    text-decoration: solid;
+
+    background-color: chartreuse;
+
+
+}
+.tah {
+    transform: translate(5%, 15%);
+    text-decoration: underline;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.eih {
+
+    transform: translate(50%, -1220%);
+    text-decoration: underline;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.tai {
+    transform: translate(30%, 15%);
+
+}
+
+.eii {
+    transform: translate(170%, -115%);
+
+}
+.ti {
+    font-size: 30px;
+    color: crimson;
+    transform: translate(10%, -150%);
+
+}
+.eei {
+    font-size: 30px;
+    color: crimson;
+    transform: translate(60%, -350%);
+
+}
+.cah {
+
+    transform: translate(5%, -980%);
+    text-decoration: underline;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.egih {
+
+    transform: translate(50%, -2199%);
+    text-decoration: underline;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.ic {
+    font-size: 30px;
+    color: crimson;
+    transform: translate(13%, -350%);
+
+}
+.pi {
+    font-size: 30px;
+    color: crimson;
+    transform: translate(60%, -395%);
+
+}
+.ci {
+    transform: translate(25%, -102%);
+
+}
+.eg {
+    transform: translate(165%, -230%);
+
+}
+#ll{
+    color: darkblue;
+    font-size: 30px;
+    transform: translateX(5%)
+}
+#par{
+    text-indent: 135px;
+    line-height: 25px;
+    color: black;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    background-color: chartreuse;
+}
+.aa{
+    text-align: center;
+    transform: translateY(70%);
+}
+.cop {
+    transform: translate(-1.5%, -600%);
+
+}
+.con{
+    text-align: center;
+}
+.copc{
+    text-align: center;
+    color: black;
+    font-size: medium;
+    transform: translateY(200%);
+}
+.ppc {
+    transform: translate(46%,75%);
+}
+.impt{
+    transform: translate(20%, -550%);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#i{
+    transform: translateX(-5%);
+    color:darkblue;
+}
+.aa2 {
+    text-align: center;
+    transform: translateY(-1600%);
+}
+.copc2 {
+    text-align: center;
+    color: black;
+    font-size: medium;
+    transform: translateY(-2750%);
+}
+.ppc2 {
+    transform: translate(46%, -2500%);
+}
+
+.reg {
+    transform: translate(80%, -115%);
+    color: chartreuse;
+}
